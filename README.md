@@ -23,6 +23,7 @@ I love adding new knowledge to myself, meeting new people and working. I pay too
 
 - My old projects
 - I'm coding a site to sell books
+- I am preparing a blog site
 
 ## 🌱 I'm currently learning
 
